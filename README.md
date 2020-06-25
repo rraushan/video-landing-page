@@ -1,2 +1,1 @@
-# frontend-project-1
- techdegree lesson on github
+# Front-End Project -1
